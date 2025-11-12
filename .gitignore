@@ -1,4 +1,17 @@
+# Build artifacts
+build/
+*.exe
+*.o
+*.obj
+
+# Developer task files (internal reference only)
 DEV1_TASKS.md
 DEV2_TASKS.md
 DEV3_TASKS.md
 DEV4_TASKS.md
+
+# Project documentation and reference files (not needed to run)
+REQUIREMENTS.md
+QUICK_REFERENCE.md
+PROJECT_STATUS.md
+START_HERE.md
